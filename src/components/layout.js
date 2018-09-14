@@ -7,8 +7,8 @@ class Layout extends Component {
   render() {
     return (
       <div className='layout'>
-        {/* <h1>ECOM</h1>
-        {this.props.children} */}
+        
+        {this.props.children}
 
         <Header />
         <Navbar />
